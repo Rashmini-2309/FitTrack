@@ -63,10 +63,14 @@ Application Flow
 
    
 Project Structure
+
 The main application screens and their logic are organized in the Dart
 source file:
+
 lib/
 └── main.dart
+
+
 The main file contains the application initialization and the Login,
 Personal Details, Health Assessment, Dashboard, Workout, and Challenge
 screens, along with the related application logic.

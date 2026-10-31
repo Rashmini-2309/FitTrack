@@ -60,6 +60,8 @@ Application Flow
 5. Add water intake and manage water reminders.
 6. Select a workout category and view its exercises.
 7. Start the 30-day challenge and mark exercises as completed.
+
+   
 Project Structure
 The main application screens and their logic are organized in the Dart
 source file:
